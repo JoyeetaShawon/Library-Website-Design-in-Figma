@@ -1,0 +1,101 @@
+
+<html>
+<title>Events - Dhaka Public Library</title>
+
+<style>
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    }
+
+
+body { background-color: #ffffff; color: #222222; font-family: Arial; }
+h1   { color: #b22222; }
+h2   { color: #b22222; font-size: 16px; border-bottom: 2px solid #b22222; display: inline-block; }
+hr   { border: 1px solid #b22222; }
+.topbar  { background-color: #1a1a1a; color: white; text-align: center; padding: 8px; font-size: 14px; }
+.navbar  { background-color: #7a0000; text-align: center; padding: 12px; }
+.navbar a { color: white; text-decoration: none; margin: 0 12px; font-size: 14px; }
+.navbar a:hover { text-decoration: underline; }
+.footer  { background-color: #1a1a1a; color: #cccccc; text-align: center; padding: 14px; margin-top: 40px; font-size: 13px; }
+
+/* Large Event Card Styling */
+.event    { display: inline-block; width: 300px; text-align: center; vertical-align: top; margin: 20px; font-size: 14px; }
+.event img { width: 300px; height: 400px; border: 1px solid #ddd; object-fit: cover; }
+</style>
+
+<div class="topbar"> Today's Hours: 10:00 AM – 6:00 PM </div>
+
+<p style="padding-left:30px;">
+  <font style="font-size:30px; color:#b22222;"><b>DHAKA</b></font> <br>
+  <font style="font-size:22px;"><b>Public Library</b></font>
+</p>
+
+<div class="navbar">
+  <a href="index.html">Home</a>
+  <a href="about.html">About</a>
+  <a href="books.html">Books</a>
+  <a href="#">Events</a>
+  <a href="#">Services</a>
+  <a href="#">Contact Us</a>
+</div>
+
+<br>
+
+<center>
+  <h1> Events </h1>
+  <hr width="60%">
+</center>
+
+<br>
+
+<div style="padding: 10px 30px; text-align: center;">
+  <h2> Book Talks </h2>
+  <br><br>
+
+  <div class="event">
+    <img src="https://images.squarespace-cdn.com/content/v1/6391b0e7009f8829967c7b73/6060199e-c4ee-4b38-9c08-698dea63821f/Between+this+world+and+the+next-+Jacket+204+x+132    +mm4.jpg" alt="Event Image">
+    <p><b>March 15, 2026</b></p>
+    <p><b>Between This World and the Next</b></p>
+    <p style="color:#888;">Praveen Herat</p>
+  </div>
+
+  <div class="event">
+    <img src="House of Day, House of Night.jpg" alt="Event Image">
+    <p><b>April 02, 2026</b></p>
+    <p><b>House of Day, House of Night</b></p>
+    <p style="color:#888;">Olga Tokarczuk</p>
+  </div>
+</div>
+
+<br>
+
+<div style="padding: 10px 30px; text-align: center;">
+  <h2> Next Library Tour </h2>
+  <br><br>
+
+  <div class="event">
+    <img src="https://images.unsplash.com/photo-1568667256549-094345857637?auto=format&fit=crop&w=600&q=80" alt="Tour Image">
+    <p><b>March 20, 2026</b></p>
+    <p><b>Guided Architecture Tour</b></p>
+    <p style="color:#888;">Main Reading Room</p>
+  </div>
+
+  <div class="event">
+    <img src="https://images.unsplash.com/photo-1507842217343-583bb7270b66?auto=format&fit=crop&w=600&q=80" alt="Tour Image">
+    <p><b>April 10, 2026</b></p>
+    <p><b>Archives Special Access</b></p>
+    <p style="color:#888;">Reference Wing</p>
+  </div>
+</div>
+
+<br>
+<hr>
+
+<div class="footer">
+  &copy; 2026 Dhaka Public Library. All Rights Reserved.
+</div>
+
+</body>
+</html>
