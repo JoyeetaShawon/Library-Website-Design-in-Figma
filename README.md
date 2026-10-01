@@ -1,6 +1,6 @@
 # Library Website Design in Figma
 
-A UI/UX design project created in Figma for my **Internet Studies and Web Design** coursework. This repository showcases digital experiences designed for modern library services, bridging user-centered visual design with foundational web implementation.
+A UI/UX design project created in Figma for my **Internet Studies and Web Design** coursework. This repository showcases digital experiences designed for modern library services, user-centered visual design with foundational web implementation.
 
 ---
 
