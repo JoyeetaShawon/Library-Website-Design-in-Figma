@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Get A Library Card - Dhaka Public Library</title>
+</head>
+<body bgcolor="#f5f5f5">
+
+<br><br>
+
+<center>
+
+  <h2 style="color:#b22222;">DHAKA Public Library</h2>
+  <h3>Get A Library Card</h3>
+  <hr width="400px">
+  <br>
+
+  <form>
+
+    First Name : <input type="text" placeholder="Your first name"> <br><br>
+
+    Last Name : <input type="text" placeholder="Your last name"> <br><br>
+
+    Email : <input type="email" placeholder="example@email.com"> <br><br>
+
+    Phone : <input type="tel" placeholder="+880 ...."> <br><br>
+
+    Date of Birth : <input type="date"> <br><br>
+
+    Address : <input type="text" placeholder="Street, Area, Dhaka"> <br><br>
+
+    National ID : <input type="text" placeholder="Your NID number"> <br><br>
+
+    Password : <input type="password" placeholder="Min 8 characters"> <br><br>
+
+    <input type="checkbox"> I agree to the <a href="#">Terms & Conditions</a> <br><br>
+
+    <input type="submit" value="Register for Library Card"
+      style="background-color:#7a0000; color:white; padding:8px 30px; font-size:14px; border:none; cursor:pointer;">
+
+  </form>
+
+  <br>
+  <p>Already have an account? <a href="login.html">Login here</a></p>
+  <p><a href="index.html"> Back to Home</a></p>
+
+</center>
+
+<!-- FOOTER -->
+<br><br><br>
+<hr>
+<center><small>© 2025 Dhaka Public Library. All Rights Reserved.</small></center>
+
+</body>
+</html>
