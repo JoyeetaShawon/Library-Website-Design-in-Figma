@@ -1,0 +1,90 @@
+<html>
+
+<title> About Us - Dhaka Public Library </title>
+
+<style>
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    }
+
+
+body { background-color: #fff; color: #222; }
+h1   { color: #b22222; }
+h2   { color: #7a0000; }
+hr   { border: 1px solid #b22222; }
+.topbar  { background-color: #1a1a1a; color: white; text-align: center; padding: 8px; }
+.navbar  { background-color: #7a0000; color: white; text-align: center; padding: 12px; }
+.navbar a { color: white; text-decoration: none; margin: 0 14px; }
+.navbar a:hover { text-decoration: underline; }
+.footer  { background-color: #1a1a1a; color: #ccc; text-align: center; padding: 14px; margin-top: 30px; }
+</style>
+
+
+<!-- TOP BAR -->
+<div class="topbar"> Today's Hours: 10:00 AM – 6:00 PM </div>
+
+<!-- NAVBAR -->
+<div class="navbar">
+  <a href="index.html"> Home </a>
+  <a href="about.html"> About </a>
+  <a href="#"> Books </a>
+ 
+  <a href="#"> Events </a>
+  <a href="#"> Services </a>
+  <a href="#"> Contact Us </a>
+</div>
+
+
+<!-- MAIN CONTENT -->
+<center>
+  <h1> About Dhaka Public Library </h1> <p>
+  <hr> <hr>
+  A trusted place of knowledge, learning, and culture for the people of Dhaka.
+</center>
+
+<br>
+
+<center>
+  <img src="DPLr.jpg" width="600">
+</center>
+
+<br>
+
+<h2> Who We Are </h2>
+<p>
+Dhaka Public Library was established with a simple mission: to provide free and open access to knowledge for every citizen of Dhaka. Whether you are a student, a researcher, or simply a lover of books, our library welcomes you with open arms.
+</p>
+
+<br>
+
+<h2> Our History </h2>
+<p>
+Located in the heart of Dhaka at Dhaka-1000, our library has served generations of readers for many decades. Founded during the British colonial period and revitalized after the independence of Bangladesh in 1971, the library has always stood as a symbol of public education and community service.
+</p>
+
+<br>
+
+<h2> Our Purpose </h2>
+<p>
+We believe that knowledge belongs to all people. Our library is a welcoming space where curious minds come to grow, explore, and connect with the world through the power of reading — free of charge for everyone.
+</p>
+
+<br>
+
+<h2> Our Services </h2>
+<p>
+We offer a wide range of services to the community including: book lending, a children's reading section, quiet study rooms for students, computer and internet access, daily newspapers and magazines, and regular cultural events and workshops open to all.
+</p>
+
+<br>
+<hr>
+
+<!-- FOOTER -->
+<div class="footer">
+  &copy; 2025 Dhaka Public Library. All Rights Reserved.
+</div>
+
+</body>
+</html>
